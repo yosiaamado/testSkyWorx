@@ -1,0 +1,32 @@
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\appsettings.Development.json
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\appsettings.json
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Generate Triangle.exe
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Generate Triangle.deps.json
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Generate Triangle.runtimeconfig.json
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Generate Triangle.dll
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Generate Triangle.pdb
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Test Technical\Generate Triangle\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.csproj.AssemblyReference.cache
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.AssemblyInfoInputs.cache
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.AssemblyInfo.cs
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.csproj.CoreCompileInputs.cache
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.MvcApplicationPartsAssemblyInfo.cs
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.MvcApplicationPartsAssemblyInfo.cache
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets\msbuild.Generate Triangle.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets\msbuild.build.Generate Triangle.props
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Generate Triangle.props
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Generate Triangle.props
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets.build.json
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\staticwebassets.development.json
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\scopedcss\bundle\Generate Triangle.styles.css
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.csproj.CopyComplete
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.dll
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\refint\Generate Triangle.dll
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.pdb
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\Generate Triangle.genruntimeconfig.cache
+D:\Test Technical\Generate Triangle\obj\Debug\net6.0\ref\Generate Triangle.dll
